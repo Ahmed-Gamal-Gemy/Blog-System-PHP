@@ -16,27 +16,27 @@ A simple blog system built using PHP and MySQL with authentication and CRUD oper
 ## 🛠️ Tech Stack
 - PHP
 - MySQL
-- HTML, CSS, JavaScript
+- HTML, CSS
 
 ---
 
 ## 🎥 Demo
-![Full Demo](screenshots/full-demo.gif)
+![Full Demo](screenshots/Full-Demo.gif)
 
 ---
 
 ## 📸 Screenshots
 
 ### 🔐 Authentication
-![Register Success](screenshots/auth-register-success.gif)
-![Register Error](screenshots/auth-register-error.gif)
-![Login](screenshots/auth-login.gif)
+![Register Success](screenshots/Register-Success.gif)
+![Register Error](screenshots/Register-Error.gif)
+![Login](screenshots/Login.gif)
 
 ### 📝 Posts
-![Posts List](screenshots/posts-list.gif)
-![Create Post](screenshots/create-post.gif)
-![Edit Post](screenshots/edit-post.gif)
-![Delete Post](screenshots/delete-post.gif)
+![Posts List](screenshots/Posts-List.gif)
+![Create Post](screenshots/Create-Post.gif)
+![Edit Post](screenshots/Edit-Post.gif)
+![Delete Post](screenshots/Delete-Post.gif)
 
 ---
 
